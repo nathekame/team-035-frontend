@@ -2,7 +2,7 @@
 
 SMEIH is a web platform designed to serve as an intermediary between international and local investors both private and government with individual or group wanting to start a small medium  enterprise. We carefully put into consideration possible security hassles that would reduce the integrity of the platform. The platform features an admin, Investors, Business owners and agent platform. The app is featuring blockchain technology to handle the security of transactions(cash flow) in the system
 
-The project is created using node js backend server amd react frontend framework.
+The project is created using node js backend server and react frontend framework.
 
 ## Why
 
